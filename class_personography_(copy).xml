@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100: Class Personography</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+   <text>
+      <body>
+         <div>
+            <listPerson>
+               <person>
+                  <persName>Diane Jakacki </persName><birth> <placeName>NJ</placeName>
+                  </birth>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">English Major </occupation><occupation cert="high" evidence="internal" instant="unknown" type="Profession" xml:space="default">Academic</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="Research" xml:space="default">CSDH</affiliation></person></listPerson><p>I'm ambidextrous; my favourite color(s) is/are blue(s); I hate lima beans and egg salad</p>
+         </div>
+         <div>
+            <listPerson>
+               <person>
+                  <persName>Claire Cahoon </persName><birth><date>March 16</date> <placeName>Charlottesville, VA</placeName> </birth><occupation>Digital Pedagogy &amp; Scholarship Specialist</occupation> </person></listPerson><p>I have color synesthesia and a rambunctious cat</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10001" xml:space="default">
+                  <persName>Bityutskiy, Nikita</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Tashkent, Uzbekistan</placeName> </birth>
+                  <occupation>Computer Science &amp; Engineering</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>I wanted to play baseball but screwed up my shoulder</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10002" xml:space="default">
+                  <persName>Blumenfeld, Zach</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Doylestown, PA</placeName> </birth>
+                  <occupation>Computer Science Engineering</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <listRelation>
+               <relation name="#dkj004">
+                  <desc/>
+               </relation>
+            </listRelation>
+            <p>I'm also left handed</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10003" xml:space="default">
+                  <persName>Camacho, Miguel</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Bogota, Colombia</placeName> </birth>
+                  <occupation>Comparative &amp; Digital Humanities</occupation><occupation></occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>I was a competitive fencer</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10004" xml:space="default">
+                  <persName>Casarsa, Nathan</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>PLACE</placeName>
+                  </birth>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+
+            <p>FUN FACT</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10005" xml:space="default">
+                  <persName>Feng, Junbo</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Guangdong, China</placeName> </birth>
+                  <occupation>Computer Science Engineering</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>I am a music producer</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10006" xml:space="default">
+                  <persName>Green, Jackson</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Washington DC</placeName> </birth>
+                  <occupation>Undecided</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>I have 2 dogs and a cat</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10007" xml:space="default">
+                  <persName>Hausner, Abby</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Ridgewood, NJ</placeName> </birth>
+<occupation>Economics</occupation><occupation>Political Science</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>I'm going to Scotland in May</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10008" xml:space="default">
+                  <persName>Lange, Dylan</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Indio, California</placeName> </birth>
+                  <occupation>Computer Science</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>I have 15 cats</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:space="default" xml:id="humn10009">
+                  <persName>Lee, Joshua</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Englewood, NJ</placeName> </birth>
+<occupation>Computer Science</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>FUN FACT</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:space="default" xml:id="humn10010">
+                  <persName>McMenimen, Leo</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Sayerville, New Jersey</placeName> </birth>
+<occupation>Computer Science</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>I have a metal rod screwed into my right arm</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10011" xml:space="default">
+                  <persName>Peters, Alexander</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>PLACE</placeName>
+                  </birth>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>FUN FACT</p>
+         </div>
+         <div>
+            <listPerson>
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10012" xml:space="default">
+                  <persName>Shahid, Farhaj</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>PLACE</placeName>
+                  </birth>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>FUN FACT</p>
+         </div>
+         <div>
+            <listPerson cert="high" default="true" xml:space="default" xml:id="humn10014">
+               <person cert="high" evidence="internal" instant="unknown" xml:id="humn10013" xml:space="default">
+                  <persName>Wiehn, Erin</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Newton, MA</placeName> </birth>
+<occupation>Economics</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>I'm left handed</p>
+         </div><div>
+            <listPerson>
+               <person>
+                  <persName>Wynkoop, Peyton</persName> <birth>
+                     <date>DATE</date>
+                     <placeName>Abu Dhabi, UAE</placeName> </birth>
+<occupation>Undeclared</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>FUN FACT</p>
+         </div>
+      </body>
+   </text>
+</TEI>
